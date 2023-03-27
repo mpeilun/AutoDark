@@ -28,4 +28,5 @@ AutoDark 使用 Python3 進行開發，需安裝以下套件：
 ## License
 
 AutoDark 使用 MIT License 開放原始碼。 
+
 Idea icons created by Good Ware - [Flaticon](https://media.flaticon.com/license/license.pdf)
