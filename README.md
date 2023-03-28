@@ -1,3 +1,5 @@
+<img style="width:64px" src="https://user-images.githubusercontent.com/13403218/228272332-fbbe0d8a-752b-40f5-ac9b-59f02e2d3924.png" />
+
 # AutoDark
 
 AutoDark 是一個可以自動調整顯示器亮度的程式。透過對螢幕進行截圖並分析截得的圖片來判斷是否需要調整亮度。
